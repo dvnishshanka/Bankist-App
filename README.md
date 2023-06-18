@@ -5,13 +5,16 @@ Bankist is a fictitious website centered around banking, designed specifically f
 - a slider component
 - implementation of a sticky navigation.
 
-These features have been implemented to obtain practical experience in utilizing JavaScript to manipulate the Document Object Model, a crucial aspect of web development.
+These features have been implemented to obtain practical experience in utilizing JavaScript to manipulate the Document Object Model.
 
 This website is built using the JavaScript programming language and is hosted on the Cloudflare platform.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
  <img src="Screenshots/1.jpg" width="950">
  <img src="Screenshots/2.jpg" width="950">
+ <img src="Screenshots/3.jpg" width="950">
+ <img src="Screenshots/4.jpg" width="950">
+ <img src="Screenshots/5.jpg" width="950">
 </div>
  
 **Languages**
