@@ -20,4 +20,4 @@ This website is built using the JavaScript programming language and is hosted on
 
 **URL**
 
-https://bankist.pages.dev
+[https://bankist.pages.dev](https://bankist-app.pages.dev/)
